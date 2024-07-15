@@ -107,12 +107,11 @@ The credit-risk classification Challenge consists of the following folders and f
 
 * **Credit_Risk folder**:
 
-      * **Resources folder** :
+  * Resources folder :
 
-           * **lending_data.csv** - The dataset used for training and testing the model.
+    * lending_data.csv - The dataset used for training and testing the model.
 
-      * **credit_risk_classfication.jpynb**   - The Jupyter Notebook file containing the code & analysis.
- 
+   * credit_risk_classfication.jpynb   - The Jupyter Notebook file containing the code & analysis. 
 
 * **README.md**- Provides the Overview of the Analysis and project folder Structure
 
@@ -121,7 +120,7 @@ The credit-risk classification Challenge consists of the following folders and f
 
 1. Clone the GitHub repository to your local machine using the following command:
 
-git clone https://github.com/SriPenumatcha/credit-risk-classification.git
+    git clone https://github.com/SriPenumatcha/credit-risk-classification.git
 
 2. Open the `credit_risk_classfication.jpynb' file using Jupyter Notebook.
 
